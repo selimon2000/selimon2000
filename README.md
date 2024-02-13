@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Selimon Shukurzad</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">A passionate mechatroncs engineering student looking for a software role. I have programmed robots using ROS, C++, and Python, and currently learning Data Structures & Algorithms.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
