@@ -11,11 +11,11 @@
 
 <h3 align="left">Coding Profiles:</h3>
 <p align="left">
-  <a href="https://leetcode.com/selimon_s" target="_blank">
+  <a href="https://leetcode.com/selimon_s" target="_blank" style="text-decoration: none; margin-right: 10px;">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Profile" />
   </a>
-  <a href="https://www.hackerrank.com/profile/selimon_s" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Profile" height="30" />
+  <a href="https://www.hackerrank.com/profile/selimon_s" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Profile" />
   </a>
 </p>
 
