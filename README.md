@@ -11,11 +11,13 @@
 
 <h3 align="left">Coding Profiles:</h3>
 <p align="left">
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue)]([https://leetcode.com/your_username/](https://leetcode.com/selimon_s))
-<a href="https://www.hackerrank.com/profile/selimon_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@selimon_s" height="30" /></a>
+  <a href="https://leetcode.com/selimon_s" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-blue" alt="LeetCode Profile" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/selimon_s" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank Profile" height="30" />
+  </a>
 </p>
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
